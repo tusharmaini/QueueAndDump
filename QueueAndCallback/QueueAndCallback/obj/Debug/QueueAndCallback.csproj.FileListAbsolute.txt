@@ -1,0 +1,6 @@
+D:\Work\QueueAndCallback\QueueAndCallback\QueueAndCallback\bin\Debug\QueueAndCallback.exe.config
+D:\Work\QueueAndCallback\QueueAndCallback\QueueAndCallback\bin\Debug\QueueAndCallback.exe
+D:\Work\QueueAndCallback\QueueAndCallback\QueueAndCallback\bin\Debug\QueueAndCallback.pdb
+D:\Work\QueueAndCallback\QueueAndCallback\QueueAndCallback\obj\Debug\QueueAndCallback.csprojResolveAssemblyReference.cache
+D:\Work\QueueAndCallback\QueueAndCallback\QueueAndCallback\obj\Debug\QueueAndCallback.exe
+D:\Work\QueueAndCallback\QueueAndCallback\QueueAndCallback\obj\Debug\QueueAndCallback.pdb
